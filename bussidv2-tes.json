@@ -27,6 +27,326 @@
    "DATA":
   [
     {
+      "id": 100,
+      "category":"Truk",
+      "title":"NMR New Qinasih Bunglon",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBosHtN8LCMs8u3odcuSgl-lUI22TIcBWwk5gv9VSW_4EzWPFyNzzMQU0JWlEYn0w8PFOw-84i1U9aEQ1XFFN68pRU-MMH9UDwrMvTkGQ5SGRxzOQgATpuGXyiMXySJaL5a3WzIesWrRicPE249hm0GCjIA073OxxWCtoaAK8vD-qjE-qCyq8F9cA/s1600/NMR%20New%20Qinasih%20Bunglon.png",
+      "link_mods":"https://www.mediafire.com/file/wwwl0hld41f31ie/NMR_QINASIH_BUNGLON.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/k11jdkp8hae0wx5/QINASIH_BUNGLON_TERPAL_SEGI3.png/file"      
+    },
+	{
+      "id": 99,
+      "category":"Truk",
+      "title":"Fuso Tronton Padang",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOFtq7zUuUJFzcEt7tPTepgO89Lm7ks8PG51OkVbXeCrc3Fr28WiGE6XZ9xjLjHzOM1ec1ergXdHEpcrDVCpN0kqWWZIhlUFRbmVYSLEUrKdCsqsgYdThVLFXRjW-wIg0EsNzCzR8_w2TRvlzCc8B4fYS5vmZ5SR8ACr-Qoe-cfc2zlyYHQQIEoSM/s1600/Fuso%20Tronton%20Padang.png",
+      "link_mods":"https://www.mediafire.com/file/w37lyj4m1pvyf3t/ACC_TRONTON_LONG_BAK_PADANG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/16bdipslguor4ft/LIVERY_FUSO_TRONTON_LONG_3_BY_MEDIAN.png/file"      
+    },
+	{
+      "id": 98,
+      "category":"Truk",
+      "title":"Canter Keisya Berkah Rawit",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEindqft3V4EfSoakh1ofM_kQ35Cw0x5tDZTfJ_gDiIwo2YooDFjYHkW__K2SyOBzi4xXvN2-XgutqajlqLopPThC4Ts6j21ZkSjysTF8nxlhlq8n9ftK83uwSzZEIAE-w_JMTfpMd2OyXkGOprUbGo4kS4rqHqFBOPK0wSPuURfKzB7PsXlaiuET74/s1600/Canter%20Keisya%20Berkah%20Rawit.png",
+      "link_mods":"https://www.mediafire.com/file/dswaqtlb27sullg/CANTER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/9f338xxaiub6yr8/Segitiga_DansuProject_%2528R_Tinggi%2529.png/file"      
+    },
+	{
+      "id": 97,
+      "category":"Truk",
+      "title":"Canter Muat Kayu Tambang",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvfnKYta8sIdwkllkDmmn7y7ColWAuMsH0R4Rpp_dV_Z6BLEg7NJ6FgTv_eHX5ggBN6Ps3nlBSrz4vki25KI0k8fL41tFeVBEkdhiOTnqjZwp2ixMHab5Zs1zrqLVF3JtG6ax_rAgAXR1esFakLrx_QtbmyMxOwXB8tJyqj3nDlCn_gACipXoL5Os/s1600/Canter%20Muat%20Kayu%20Tambang.png",
+      "link_mods":"https://www.mediafire.com/file/rwdwow26qaympad/New_Stevani_Kayu.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/rn79g7upgxm9548/livery_new_stevanie_fam8os_by_RG_DESIGN.png/file"      
+    },
+	{
+      "id": 96,
+      "category":"Truk",
+      "title":"Black team Glowing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFDGhdMGdbAgiqOcAL5qZtXwQIMXmbvThUfEoG1WXRvKepxhDfeQ5KDIjoPGbbGlf6Yt77mU9gfxybrI89M9lBkKzCxcbT_mjxmJUGbLseC59DBWzuNvYy1zvWfSb8EgwCx3XdYvE8VIzSnGI4pffdBuWq51_3GQGlgrYc4KeZsk9kOpZ9bgJta8w/s1600/Black%20team%20Glowing.png",
+      "link_mods":"https://www.mediafire.com/file/ng5l46pcon8g5kc/GAYOR_FUL_BERAS_BLACK_TEAM_X_PLAY_KEMBAR.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/n2k9g1eh2fe1scg/LIVERY.png/file"      
+    },
+	{
+      "id": 95,
+      "category":"Truk",
+      "title":"Hino 500 Tronton Sumatra Style",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf0tMnKtdw9kVh1S-btsrkA_pZxDXj5_klM5oeKxhhIMDwvfTXFyyHYV6Y-Btfw4qEjRZhSH7oKEou7JVr8eYgfj3ZSlikuhqL-OHblbOH4LzHMcPHY5oP3nREwqb2l0rNk8jQ6d10zDPpadQrmiSOM03FnNqSvycL5xeimFcTF0cSFkzH7d9OyTE/s1600/Hino%20500%20Tronton%20Sumatera%20Style.png",
+      "link_mods":"https://www.mediafire.com/file/yd0qrk2i4bl2wfw/HINO_500_TRONTON_SUMATRA_SPION_SCANIA.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ah65rwip4g3uw1y/hino_hijau_no_dop.png/file"      
+    },
+	{
+      "id": 94,
+      "category":"Truk",
+      "title":"Hino 500 Bak Sound",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFSqsZewqSjsgfo4L2HmIS7tVr1z1Gb8NvO9LuQUe1ntvrnSYW_Apqj7uVIhdTU21iYv61QcEsnYShZoQEAoCtslkMNMWSVZpqjTc9piEt2vGZeIfEwfGdw0T8L8rh4sDKYjOImAVxbpcNdZVepkr-o_R01ilKZR25G89h2_v9NA6zuFAfv5baBKQ/s1600/Hino%20500%20Bak%20Sound.png",
+      "link_mods":"https://www.mediafire.com/file/x4uwo3n1zndgbq0/Andreas_R35_Hino_500_NG_HSD_Strom_Edition.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 93,
+      "category":"Truk",
+      "title":"Canter Hasil Tambang",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW9VYpgM1OhzvMx4-K1nAkJJvifif2b9DYdzG2kIq_CvfyS1g6mgJs0gVEDEwD5TxWfo4N91ApvlpK_pYEmOFdPKq1-bkATAg6Wdt855imryO89N-N_FECVZ1xO2sG7nzm_it4Pok-DB38ziCeHYHapmlD4JKmOgJwTHII9MzWrDpR0siTx9L3n6E/s1600/Canter%20Hasil%20Tambang.png",
+      "link_mods":"https://www.mediafire.com/file/xd7z8dst6zsmzhp/Canter_dump_test.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/lpip0tpch6mcos6/fam8os_Livery_By_Goolden_Gaming.png/file"      
+    },
+	{
+      "id": 92,
+      "category":"Truk",
+      "title":"Canter Jagoan Mama",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-aS3ECJwm2STP1FNubXcD_wNTuQw5rH9gYuG71jbY-8aV0DCOfdfgwyDIrImFCxl1GeOe6Vex8kMJg_kl_6k0eFq7t54LnypeevnrjePiGkXT8Cfs6U3-QFTzgTfpSFDHCNvBP7Ar9lqY8zzpXTSfjVTMcH_o1yj89TdmMK0xTehBL8yj2hNe-Rg/s1600/Canter%20Jagoan%20Mama.png",
+      "link_mods":"https://www.mediafire.com/file/dysfmjgqdpctas7/Terpal_Segitiga.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xlqn9lh9vsam9p1/livery_Jagoan_Mamah_by_RG_DESIGN.png/file"      
+    },
+	{
+      "id": 91,
+      "category":"Truk",
+      "title":"Canter Sound Brewog Audio",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXL3XFFl1nmcwpcpWTE9FhwOStCY-Vln0NJK06lmJbukPL-EQ85VdAk-YqQZYnLVJA0gnornKAtxTzKSwHyB8fRhjLiHvzfwRid1o34yWCOD5Su34JbEIMA0oaX8BvMPcjRitamVa5RStw_fY9eAWH_uJERnn_ZgrFWQ44TBY3akJoRSgdBMgos0g/s1600/Canter%20Sound%20Brewog%20Audio.png",
+      "link_mods":"https://www.mediafire.com/file/3eh4qblk051hqoy/Truck_Canter_Angkut_Sound.bussidvehicle/file",
+      "link_livery":"https://www.mediafire.com/view/i2ntqe85jsyppnj/Livery_Brewog.png/file"      
+    },
+	{
+      "id": 90,
+      "category":"Truk",
+      "title":"Canter Sound Riswanda",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnanBRsiMkyI3_7jVkmS9txg-n6SMdezZ_GzI95Z6H0_v_-cibN6lb8CkNGLv_pxZkGKuyC9MlMai98nZAmJGv-GeTOYzfYV1H_iSEeTKVkRVc2XJJW8jnJuy6KsHbcEURKMuBxMZ6V6f37DXAPy3P8rHoxV_CLS4j6AOfyt_uYHqEEwx73iFAjZQ/s1600/Canter%20Sound%20Riswanda.png",
+      "link_mods":"https://www.mediafire.com/file/i8og86deemuh84i/riswanda_2.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 89,
+      "category":"Truk",
+      "title":"Canter Tawakal Muat Sound",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Y3GNOFGOZeSyH7bq0fN3yQl6N65w0o9zvzBtYiknoY79YogaKtmcw1NJCxXTsWYYpt1MDpnJx2gYrMlzvcoAj0oMJO_hu8GMnNGTLz79Kz3NbBMtksdAmMm3ncU7uPzSM87bl0KYhv6wBTtDzIWWKjziO7Q2lZwyoAenCsC3fvfn0bBPkQgLMag/s1600/Canter%20Tawakal%20Muat%20Sound.png",
+      "link_mods":"https://www.mediafire.com/file/5d501dava292dwa/Truck_Canter_Angkut_Sound.bussidvehicle/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 88,
+      "category":"Truk",
+      "title":"Canter new Calista",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgipjlmP9AH8Htez6w6iq4g9TWsemcSeIOJfEM8uZVEdKBSo-E_09zeUwIz5w6uf9BFAlYMncp8I1RQq2QOTYYeJ4h9r-zfgvjJydbX-GhRvljA35zEvIYD7wGocKwwHWQG4UYmSPETKDiukVJ0TPFBk5zGIw9Su6Jng3pTg9UH1Wa-Z-c9qyXL3zw/s1600/Canter%20New%20Callista.png",
+      "link_mods":"http://www.mediafire.com/file/2rsidjubfqdid5r/S3_Shilo.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/file/p0b6qvy6bizoijv/New+Calista+$3+AgungDwiDwi.png/file"      
+    },
+	{
+      "id": 87,
+      "category":"Truk",
+      "title":"Ragasa Muat Tebu",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZQLSRkeVejajato2m7urOqY_l-wJBYGooAYCsenpekj8P11FcGGKLwhjbzc7yH4P3q0eGEXNPK4NSMCBA1TAE8yb0ew5oeOvzbLEedILWwz_3fEwCZ3P4w7XQCc3RY0iYIHP4R-t6gkxrgdeyjAW3lhtx7IfRWdJM8PJQ0v-HZjZdr9_TiNaIcr8/s1600/Ragasa%20Muat%20Tebu.png",
+      "link_mods":"https://www.mediafire.com/file/n5k29lwoxkba8oz/ragasa_TEBU.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/pdlx63t2n2lv2q1/RGS_ORI.png/file"      
+    },
+	{
+      "id": 86,
+      "category":"Truk",
+      "title":"Wahyu Abadi Muat Sound",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOQ_rT4KBQ8mgIK5YmuPC5NA4Q6-cyH2Za3MLKKu42SKQins71gWSoVUXh5ZTWOiYpEDpZGA_q1nHCkdU8DM5nVlgVgyRoD_cpRvO2gIG8C7SY6MJbY070Xh_GCT_ispCKmBP5i7qIUbARaDWDvo-cW5vGvAcWWVrm8TdX4iu-YtSLajwmKvJ-TrU/s1600/Wahyu%20Abadi%20Muat%20Sound.png",
+      "link_mods":"https://www.mediafire.com/file/lwq8vgzwg8apx3i/WAHYU_ABADI_SOUND_SYSTEM.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/0ofbfydqmoz3xsd/SEGITIGA.png/file"      
+    },
+	{
+      "id": 85,
+      "category":"Truk",
+      "title":"Fuso Gayor Gentong Air",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnPdod2qh_hMHUH6zcUkIWBwY62wJ9QDFy8X-xaHyj-WeD7PvjettXdw0kLP2cSi0EVrtKw0638O3zvgREuFV2HPF4hosz1m7Q4g6rIqfiSmp6oQiXsdrtqEwenUODtkC4SDmxrGdTvmcg_v99hEy19B31Ohe1lJ8ejhNv1-1Ntr8Ep-850Nb-HSM/s1600/Fuso%20Gayor%20Gentong%20Air.png",
+      "link_mods":"https://www.mediafire.com/file/bvkechz2luhg44l/fuso_angkut_tangki_.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/shppcau1vxm7ub5/Fuso_Muatan_Tangki_Air_by_GAG_Official_%2528Sam_Xema%2529.png.png/file"      
+    },
+	{
+      "id": 84,
+      "category":"Truk",
+      "title":"Umplung Bos Galak",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH83H7ullLjMfszxAmYqrAzYCsM5LzRIO1J7ta-hErpqOkqtiS5_nPUttzlKNcL4QxKrO5rk2bM7ZkAESdi68zkMVkxoK_3R5KlP7nFWlLI63YX6bkMQ05VoJffYy0b3x3hoDJG_yVAHJoK6GvA7oF5TbmBlwvMc9C6JoMMUCqaLqTaJOKbDF7TwI/s1600/Umplung%20Bos%20Galak.png",
+      "link_mods":"http://www.mediafire.com/file/sq6qsfd0ke4wcu3/umplung+terpal.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/file/7io6q4a2dqdq9lm/LIVERY+UMPLUNG+BOSS+GALAK+FULL+STICKER.png/file"      
+    },
+	{
+      "id": 83,
+      "category":"Truk",
+      "title":"Fuso C11 FN62 Muat Semen",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNqXmYt_hZnvNQ9_XNpuoa8MGQrfgPKZkRUxADsPt0YKkxBp1k_AecjfdXLBgQnQWSkBjrMgXqNUDVRlyBMpPu4lwl3T5tZzJe4cR-yaJirnYbJsJESRat6YdS7Ppk3WqJm0F4GqEfOyueY63tjZy7igxFA6c5LL5hzIfyWYd6PBzp6dIQxCnX0Os/s1600/Fuso%20C11%20FN62%20Muat%20Semen.png",
+      "link_mods":"https://www.mediafire.com/file/t7xc445cvu002el/Fuso_C11_New_Fighter_62_Muatan_Semen_by_SMC.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/64jt6cxtwq25bsk/Dinoyo_Putra_Fuso_C11_New_Fighter_FN62_Muat_Semen_SMC_by_GAG_Official.png/file"      
+    },
+	{
+      "id": 82,
+      "category":"Truk",
+      "title":"Canter Antobolo Muat Sawit",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSZ28nap8WslBZoAbM7B7zTZGkHD5D97hbuEUbsA7n7ZeuIKCyD4hu3Rz0dS6LCAbkV6W-bKxlGMD12LJEiQ8GHT698N5xrOvbY7blBuFjzEQfwqVWxqlpBmjLpdU4Fwf9_IwrwHHZUAxMb8vztS0Nwoqn25XtMgKP2b3OpxF2FKUaai5kMGZ3gY/s1600/Canter%20Antobolo%20Muat%20Sawit.png",
+      "link_mods":"https://www.mediafire.com/file/c38ot9asmozd0tp/Antobollo_Sawiit.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xenfccebpwrroin/Livery_Antobolo_by_RG_DESIGN.png/file"      
+    },
+	{
+      "id": 81,
+      "category":"Truk",
+      "title":"Fuso Dump Muat Batu Terpal",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVty_VMc7WwGx2o13nVNHBoXwqiuWIcNnHxWJGj6uDv6sfxbH6v-ebiehkyIKwmHljzCOsEPa7r1NpBSMR57qH5dwoDS8B1KlNQVZqBWj1W0GbKjB5e5YE6g4Xr2z8JKDIHi7hSPDE4rYBG34jj440MZIDpxIWSnPyOxhda4AySqYThAgj54Q_zbI/s1600/Fuso%20Dump%20Muat%20Batu%20Terpal.png",
+      "link_mods":"https://www.mediafire.com/file/tpkpfp26zyjektc/Fuso_dump_muat_batu_terpal.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 80,
+      "category":"Truk",
+      "title":"Fuso Tronton C19",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVHRUnkTmElDnG4oTEOjegSIwJTwKA9HAQtbJotazexpwPwjXNNKoAojyU3JStXJNNOYsqqz5q929-pUCjbGxeLC5YpXphVyW_H9FiYkJCnZnlLKB2T-ZdrUMl-6JUYGmB61QqoRiqZTgnL5N81FgFv9HJyfBSJSYsx6PZPnYZkOvcqjHDUN_tZz0/s1600/Fuso%20Tronton%20C19.png",
+      "link_mods":"https://www.mediafire.com/file/a6954pvkxz410x2/cpo_tronton.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/0tzge3xtziyuqu8/1Bismmilah_fix.png/file"      
+    },
+	{
+      "id": 79,
+      "category":"Truk",
+      "title":"Hino 500 C13 Tam Cargo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-D7q10WjCB_Qfx2Dx_0Hk1ENDNLFUVZZ4Rw0exfS-CAijMXsdNYdoqJgltUyOwIWv5pc1eceH2tJ__ikuZc4Nxt6DRapZ30nThXn0rtP9678Spr_bgbVOaMW7x25erL7PgCpS-HPtxNR2uWYWhkBWyJLtSdqUDMQUTlMZoB4zpThpCDHyC1EG-gg/s1600/Hino%20500%20C13%20Tam%20Cargo.png",
+      "link_mods":"https://www.mediafire.com/file/w7dckdw1uwuuynu/tam_cargo_tronton.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/sqohkz3np7es3d5/BLUE_CARGO_BY_KODOD.png/file"      
+    },
+	{
+      "id": 78,
+      "category":"Truk",
+      "title":"Fuso Muatan Tabung Gas",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVTOb3YGcHj11himVrFeNVf5yc2FUXIa0MXlWMlf9dFdK0l3d9lMSNr1ugBiK8CBU0GDSPcu5e5cM5eFIW59p2fkMqeyUiF4VCCvRYCF8pTX_y3ynKQk7mC9oKlxyjzZVz9j2VSsXQiskal0crrt3YMcx9xafr4vJ4LQl_PlXxm1tL7r7MzkSYnuI/s1600/Fuso%20Muatan%20Tabung%20Gas.png",
+      "link_mods":"https://www.mediafire.com/file/4g0mw65vieo6ap2/Fuso_Muatan_Tabung_Gas.bussidvehicle/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 77,
+      "category":"Truk",
+      "title":"Hino 500 Tronton C8",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6miMO6PRIrEqVhIBqDGxXHY-HrvQUKj7Ks09uFHo0jojZaaJ5bdTUDAaMJlYhhcuP34dNN45KYa_FMt8xnc3IsBMNd87f6lJ7c4dD-KxTRayyj2d5jY66gJw5lQ2sBw1vjBOiPExRfIBjhxfXQ-AFIVtc9Ydbvc0xG9SGv1jjVsBo6GSdKkSt1dE/s1600/Hino%20500%20Tronton%20C8.png",
+      "link_mods":"https://www.mediafire.com/file/68xoj3pdms7gspy/c8_v_krangka_besi_sumatraan.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/40g4z8idy87y0qi/c8_TRANS_SUMATERA.png/file"      
+    },
+	{
+      "id": 76,
+      "category":"Truk",
+      "title":"Canter Khas Sulawesi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5jhVhdS6lxtARpRAmRbOFzfyhpEIK_Uj_Jr47JzAIawSyihw-YA2SSvmPTL8UDykxjkP2n1mThxFfQXcnzJunJ_EItlifu29pzDO3O7mTGRYB4mR-LNGkoAf6pitWRpgTcWzqRwO9KErdrpf9zgK2QD18ew_xhlogJ74gWbgBHtTOzbRaSqwUKIQ/s1600/Canter%20Khas%20Sulawesi.png",
+      "link_mods":"https://www.mediafire.com/file/oe726yl9i0tuv2w/CANTER_SULAWESI_BUDESIGN.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/cgfzlbc0xkmm855/khas_sulawesi.png/file"      
+    },
+	{
+      "id": 75,
+      "category":"Truk",
+      "title":"Isuzu Tronton Edit Hidayat",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhetwRjAzXlqFZMoIF0cTghGCk-GDjyU_A1pwKFtleNHiULMN5V3X9ui4WoEmyhc59MuUnwlGk9qN-9SH2PMG-Joi6L9hRlSx7z3j-o6rCB_Gmqp42x_WTvseKVXNr7b6SAYzn88mB53wIlz9vMToJkIgnJw7TQEln6vzfVJxe4U3AUPoS0aHZM6sI/s1600/Isuzu%20Tronton%20Edit%20Hidayat.png",
+      "link_mods":"https://www.mediafire.com/file/cjq6tht5kt1kidu/Isuzu_Tronton_Edit_Hidayat_Official.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 74,
+      "category":"Truk",
+      "title":"Hino C16 AJB Transport",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKXzrZD6xMyZ5qtMZ9AwSDMFhAmrzgEtsKf-ipLvCGv3gCWcZXiTtxw7lC1pLxpuJtrXITQnJ9nJhYp7KwghPsrLulH1-TF3IJC-1IY41KzHVKhS90M0gjCmulsW3gCi0PzvQJjZq8oIPp_Aa6KdA9K7v2WJNV6JDvandNujpUiQxBN7CD_akSyZ8/s1600/Hino%20C16%20AJB%20Transport.png",
+      "link_mods":"https://www.mediafire.com/file/5wwz2fpxhcwkq4o/dop_adiputro.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/5wwz2fpxhcwkq4o/dop_adiputro.bussidmod/file"      
+    },
+	{
+      "id": 73,
+      "category":"Truk",
+      "title":"Fuso Great Gen 4 Kapsul",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY1XtZ-xEPzXwkfJlK2IaS_snIIpfY1xAYxLRXCYIjj-PMJGR_upNPF0aBRfrBoamDxXNpAonC5-2kZvL2Owtb0s-ZWwYcp_gi7DL5xOhlbRtDc6ER137atSZmVqmwJkri3s1mS3wqB1bfi0ZWAij1lOiCyVyIhQIacxlBFKcvMmAxkNPgUSDoQo0/s1600/Fuso%20Great%20Gen%204%20Kapsul.png",
+      "link_mods":"https://www.mediafire.com/file/ytoqkpwaw4y3059/fuso_the_great_kapsul.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ib788yyu7ipjg7o/IMG_20210501_204307.png/file"      
+    },
+	{
+      "id": 72,
+      "category":"Truk",
+      "title":"Sassis Truk Tronton Led",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQyQvdvuso9yS58ffbAWtDzgezLCeLW5H6uOBoMW6fjffF2rbsdH6rOb3Ba5MmSt8I3VsE9lX34q8aCq3sFuv8xOKUkUDWrZV6A8UCQ31F63lyN4hM1gexe4RxRcVn1Jg2RC_lWlM0RhalZuX_2IljWZje4Z8nKDv5uTa0cPLJ09WvsmctkzJOw20/s1600/Sassis%20Truk%20Tronton%20Led.png",
+      "link_mods":"https://www.mediafire.com/file/48a1g7qt7z3vnrm/Andreas_R35_Truk_Canter_Tribal_Free_Chassis_Edition_LED%252B%252B.bussidvehicle/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 71,
+      "category":"Truk",
+      "title":"Fuso Trinton Muatan Berat",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJb9cJ7GA2VzqwjoHBwa_K4JkgU9l2M57DK_otyfvjOvRIQJeyJ5ai5TFd0xAVyZO5d0JbynYnlXiR0HrwSSUIPwhWXfMl1BLy8zrlobvrXNx_9gx68CDaiEaenpUspSebwdhZbvyw2ZPGFcp0Pr_xhkXLd8E9FCEikqUVazWwtNlYC8bD7d_aC4Q/s1600/Fuso%20Trinton%20Muatan%20Berat.png",
+      "link_mods":"https://www.mediafire.com/file/m76otsu4r7cbbr2/Fs_Tribal.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 70,
+      "category":"Truk",
+      "title":"HDL Long Chassis Sumatera",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjshgn2sPt65Xd19wzWL0cn2dikiL-nnzixb3aeJYAeqCPZDWRDLBubEmbvLPVBJsKLOSu-yv82nzCDGC-tQffr67yHu4PDozM9MwO5G1Da5Q8WNAr-vS6c2kHvXZaNiEcMNfid6vep0tMF9-Km8C16vEgOpuNw8L0qPg9YO_NOP57M3yjuYmp5erI/s1600/HDL%20Long%20Chassis%20Sumatera.png",
+      "link_mods":"https://www.mediafire.com/file/je2doq222nqstc9/CANTER_HDL_SUMATERA.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 69,
+      "category":"Truk",
+      "title":"Hino 500 PDSI Muat Crane",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5h8jSrUuyGd_geoSt7mGZIrhdWdUvC9sAvQqYpRWbEN6Gn75cDFpV8jg-_uBcknYvBrezkIuJB0D6k_Qotu6pj5tS-l0eu0lHQflM9BojoFcTaS4EacVT6oiS7HlbqpyqWSBPhH0079DF1gEWPo92Fa8lmBnMl0iEmOER8lmibXGPPZFlOBsgIq8/s1600/Hino%20500%20PDSI%20Muat%20Crane.png",
+      "link_mods":"https://www.mediafire.com/file/jr6m053e4sb02yp/PDSI_NEXGEN_OVERLOAD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ypu1ugsgpmkjpoq/PDSI.png/file"      
+    },
+	{
+      "id": 68,
+      "category":"Truk",
+      "title":"Actros Tronton Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF6MOSx4I9i2OMqyXtBHmVAKqkjsKdAOu4YudbE0EW-S-JkJJrEX6St5snPoJH3cL6qxX5ykovqVevZMimBqZ7es4eGkgmJZoKiQfUoBL4dKCyDucDty5THSwzo-lFeCcEzBpJqYwsthjKTfnoVkVlPD6h-YOWCYcK-ayu1IvNScuLlm3u8t6KgXQ/s1600/Actros%20Tronton%20Racing.png",
+      "link_mods":"https://www.mediafire.com/file/dln4eq9h95f0ra7/Truk_Actros.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/56tr8vaz3ixu5df/3_MUSTANG_SHELBY_BY_JF_CHANNEL_PRD_093.png/file"      
+    },
+	{
+      "id": 67,
+      "category":"Truk",
+      "title":"Tronton Anti Gosip",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2UVNEZ1qU5UbDiJmNUeMKEZdtCliFT_F3ir7dpqj18Lq9qgjVoehEqeVlGnlJTMLn6D8du67lmJ1gZoynGlx5ixJ1PFWz0QXnuTEncfXdKCVohYDsfgLMDIUStdrbDM9-VQouX3Zfh4gUwI-NmHP72H0oq2rf0kjOwZ2tQSgUnNO8Xt-Zr5z6Uo/s1600/Tronton%20Anti%20Gosip.png",
+      "link_mods":"https://www.mediafire.com/file/kc24fiwsqjs1482/tRUK_nmr_71_TRTON.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/wfxpnctew94e3ir/ANTI_GOSIP-HM.png/file"      
+    },
+	{
+      "id": 66,
+      "category":"Truk",
+      "title":"Canter Chassis Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkUD__cHBZ7oOy3lZE1R_H5GZ3OQt3g9r537iwP_PfEb90EDsbIERUCCjHIoM84tycPfrp_VqN3GJm9PTLHOeCRjK5CzG9mlE9ImFU3U85uWKEDL8bVFlWIX5QtYEKgGKXIWHlbu9e-oQrF0XdBH9hIzPDryAIAqaM2iBrvwQEgkJpDMMPA87ohc/s1600/Canter%20Chassis%20Full%20Anim.png",
+      "link_mods":"https://www.mediafire.com/file/u0e2katzzha7nr4/canter_chassis.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ltqz4dddyprvbx3/chass.png/file"      
+    },
+	{
+      "id": 65,
+      "category":"Truk",
+      "title":"Hino Muat Mobil Pribadi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUktkcen3q9XzPU8olf-wDbgujjaMwS-DCqJJsCzgVU5c7oLwaofj27AmR3nRH-NQkCyjt1_oeBpEIQf6qh_Qz_LXN4bY-rcAyAKupXylpEjKMxXs1MuZS-pfXMKS9cfvPPlmX-ozas6cxOc37NagsNFLwWhcWfGOw6jSEckaaXN0Shj7HRklhOao/s1600/Hino%20Muat%20Mobil%20Pribadi.png",
+      "link_mods":"https://www.mediafire.com/file/q87f79x1wsizm5j/TRUCK_HINO_Car_Transport.bussidvehicle/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 64,
+      "category":"Truk",
+      "title":"Nissan UD Engkel Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmQHZPTr_qKv6C4bdSx6Tj37MLjnjasAVaKMQfbb7L8EXnsUA8yMEMNJ__CeF32yl4n_U0m3Qtnl_L-VE1-5YcIFIwIWmpKFngLhbrGMPjjIO7VRRjICGd6d6YinFcyCo_v7wYRb2GlErEiL3id82nWz_qwmwXK56bh7Kw9WHf66-1l0n3YDEVBS4/s1600/Nissan%20UD%20Engkel%20Full%20Anim.png",
+      "link_mods":"https://www.mediafire.com/file/b09twqxfbhmrak5/NISSAN_UD_BY_SG.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 63,
+      "category":"Truk",
+      "title":"NMR71 Box Xspres Madura",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwNYKa6yF9yghkUugkL3Y9mGtLUtZNyaQ31OIZOCtZ7y_qHI98D8to86fZdmUyY3gaq4Ez8u2yMZOCq1WURj8TXekup1OlsYUd44IOOiJLx9Nln0AEdVtboK7dhLWnD5z3PdFLaz6sq7qMPDFmcvTDynbKVm1lYvnKdj75iKtvJeP3XXXKW8R1eMA/s1600/NMR71%20Box%20Xspress%20Madura.png",
+      "link_mods":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioEG6RN3-WXff15O01hooQk6lVWUo6NOyPxPzexQ0qZ6h4ow08QxXjSbTjA4QDguiLnXlMMkJCdhqCJKl_ZfcnAImquJpP7HhIZ3UeF36x70FZy-S_IW0j2XdI99VZewGaPbCR91QakLOMwhZwAMA6fSAgaTLqHBDnIPRpwM8LogVioMhRF6PfSco/s1600/Fuso%20Tribal%20Muat%20Semen.png",
+      "link_livery":"https://www.mediafire.com/view/gqs1cjc10xjb9xn/TEST_LIVERY.png/file"      
+    },
+	{
+      "id": 62,
+      "category":"Truk",
+      "title":"Fuso Tribal Muat Semen",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioEG6RN3-WXff15O01hooQk6lVWUo6NOyPxPzexQ0qZ6h4ow08QxXjSbTjA4QDguiLnXlMMkJCdhqCJKl_ZfcnAImquJpP7HhIZ3UeF36x70FZy-S_IW0j2XdI99VZewGaPbCR91QakLOMwhZwAMA6fSAgaTLqHBDnIPRpwM8LogVioMhRF6PfSco/s1600/Fuso%20Tribal%20Muat%20Semen.png",
+      "link_mods":"https://www.mediafire.com/file/9z3qwhu0m6t9y1i/Truck_Fuso_Tribal_Muatan_Semen.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
+      "id": 61,
+      "category":"Truk",
+      "title":"NMR Dump Tronton Sekar Taro",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzOoT55bsd7bY3R4Ko9XJaIKdencwHmXAMscZ17VSKdtFhJrzNzUbYeESmmzeUENlnSiigWTHKoq_YoFHiTXmpTtKGzBSBNLZ-endJdhQcY3Quol1OoisMg9us0zuC0tAQgkPmTnmT8fWZFQr5ZnLl0aJBhqXe1RH4b25DdVvkj_qn0RPXR4QrOig/s1600/NMR%20DUMP%20TRONTON%20SEKAR%20TARO.png",
+      "link_mods":"https://www.mediafire.com/file/hu812pp6pvuo44l/NMR_DUMP_TRONTON_Sekar_Taro.bussidmod/file",
+      "link_livery":"Null"      
+    },
+	{
       "id": 60,
       "category":"Truk",
       "title":"Canter Berkah Bunda (Ceper)",
