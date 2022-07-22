@@ -27,28 +27,28 @@
    "DATA":
   [
     {
-      "id": 1,
+      "id": 31,
       "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "title":"New Avante D2",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWJPx14nJHR5ocTGZ4JFbjVvCxkUyd3TMvlaAs4tqDJWLYHk503hymchvxHqbULN1ymWB3rEGD-lMSwfEuxqD_4bAMwTFm3S3Wk_-_Amic4GnSYS0ZDkEX7K-bTNJrywMZ9do9EuB0UYohdzI2Epbq_cHot2ZeiLYDToY2-X0hSF_sDPCWBmDtz_k/s1600/sinar%20jaya%20new%20avante%20d2.png",
+      "link_mods":"https://www.mediafire.com/file/3q9orb2vnhci65c/AVANTE_D2_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/qq1d34m7rc6t12q/sinjay.png/file"      
     },
-    {
-      "id": 2,
+	{
+      "id": 30,
       "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"file:///android_asset/Zentrum.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
+      "title":"JB3+ Full Strobo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAq3vmQ1bC1sBtTyJTzQ9f5Om1KztQHyjDxlB7DgAB6K381fEf6oOysTG2YgZzhuxrMOtPyRBXFqK1cyOhv9bylGOoU34L9FLHW1HoaEpflsCTWgsvugJBJDNmLD33Ulnb2xcNuCHZ_DXADKtCdWNPAqbEUyotczhQzvY3Ymh7PV5hVDmKYb06CfY/s1600/JB3+%20Full%20Strobo.png",
+      "link_mods":"https://www.mediafire.com/file/wmv4t0zibpcs2oc/ALCOA_FULL_FARIASI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ohgdlpuim4pngx5/Black_custom_DROGBA_by_Bony_Bdm.png/file"      
     },
-    {
-      "id": 3,
+	{
+      "id": 29,
       "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "title":"New JB3+ K410iB",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIqBwCt8--3E-09LYwGPRqsWNf_jwkgT0AgelEuetFRaT1HsfYEe540m_EDja48ffIEGS29ZGUl5Up1iXbj_VIhoqBI4cKrmHTDYcLWg2zIID0hoJWf9DIq4C2qVAPy9NqHrblQMfy1Xe5wxEqfp0Om95z9YhCUNM33qLeQ1u_i2VOKT9fyXIbK2g/s16000/New%20JB3+%20K410iB%20Juragan%2099.png",
+      "link_mods":"https://www.mediafire.com/file/9wt320l9yipcbsd/SHD_SCANIIA_K410_IB_STD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/i2d1a896e7nmr5y/Juragan_99_Scania_K410.png/file"      
     }
 
   ]
