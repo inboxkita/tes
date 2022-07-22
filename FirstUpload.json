@@ -1,0 +1,55 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111-",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712-",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"18832dfd3d964279",
+      "backup_ads_intertitial":"bc49450a70789113",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Bis",
+      "title":"Harapan Jaya",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 2,
+      "category":"Bis",
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"file:///android_asset/Zentrum.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 3,
+      "category":"Bis",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    }
+
+  ]
+}
